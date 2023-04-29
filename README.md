@@ -143,4 +143,7 @@ The admin have the authority to delete a flight, view all reservations made by c
 13. use NPM install command in order to download the Node Modules used in the project
 14. Run npm start command to start your react project
 
+![Screenshot (52)](https://user-images.githubusercontent.com/93290914/235304772-c6b93ee2-785f-44f3-bc3a-22abbde8b585.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/93290914/235304775-e77937d5-8e15-4a91-a744-9ae2ad427f40.png)
+
 
