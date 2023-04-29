@@ -145,4 +145,6 @@ The admin have the authority to delete a flight, view all reservations made by c
 
 
 
+![Screenshot (60)](https://user-images.githubusercontent.com/93290914/235305336-d9c4b4b2-3c58-43f6-868d-d647d56096e2.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/93290914/235305339-651c7e4e-053d-40d7-9003-a37bbcdd6052.png)
 
