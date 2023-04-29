@@ -1,0 +1,164 @@
+/* base styles */
+* {
+
+  font-family: “Quicksand”;
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items:baseline;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #F2F2F2;
+}
+.navbar h1 {
+  color: #F1356D;
+}
+.header{
+  color: #F1356D;
+  text-align: center;
+  margin: 0;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar Link:hover {
+  color: #F1356D;
+}
+ .logo1{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  box-sizing: border-box;
+  padding: 0;
+  border: none;
+  margin: auto;
+  display: block;
+  width: 10px;
+  height: 10px;
+  max-width: 100px;
+  /* min-height: 20px; */
+  max-height: 150px;
+  object-position: left;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+/* blog previews / list */
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #FAFAFA;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #F1356D;
+  margin-bottom: 8px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color: #F1356D;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+.blog-details button {
+  background: #F1356D;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* create new blog form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #F1356D;
+  margin-bottom: 30px;
+}
+.create h4 {
+  font-size: 20px;
+  color: #F1356D;
+  margin-bottom: 30px;
+}
+.styling h8{
+  font-size: 20px;
+  color: #721833;
+  margin-bottom: 30px;
+
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: #F1356D;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.edit{
+  background: #F1356D;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.edits{
+  background: #F1356D;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+
+  margin-left: 200px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.flights {
+  padding: 2px 16px;
+  background: seashell;
+  display: block;
+  margin: 20px 10px;
+  border-left: 8px solid #fff;
+}
+.flights:hover {
+  border-left: 8px solid #4979FF;
+}
